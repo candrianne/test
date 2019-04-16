@@ -1,4 +1,4 @@
-public class Etudiant
+public class Etudiant extends Personne
 {
     private int age;
 
